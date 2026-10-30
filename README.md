@@ -154,8 +154,6 @@ All queries are in [`retail_sales_analysis.sql`](retail_sales_analysis.sql).
 
 ## Recommendations
 
-> Write 2-3 recommendations based on your findings. For example:
-
 1. Focus promotions on **[top category]**, which drives the most revenue.
 2. Schedule staff and campaigns around the **[busiest shift]**, when most orders happen.
 3. Reward the **top customers** with a loyalty offer to keep their spending.
